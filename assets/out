@@ -75,7 +75,7 @@ json_output='{
     "version":{ "ref": "'$ref'" },
     "metadata": [
         { "name": "nameofmonkey", "value": "'$monkeyname'" },
-        { "name": "author", "value": "Jeff DeCola" }
+        { "name": "author", "value": "Joe Bloggs" }
     ]
 }'
 
